@@ -27,3 +27,5 @@ ________________________________________________
  -   256gb WD Blue Nvme M.2
  -   1tb Samsung 970 EVO Plus SSD NVMe M.2
  -   1tb WD Blue HDD
+
+https://docs.google.com/presentation/d/1hvvUre7hZLGc_fuAH1UYlhYCZmqNpGwKNS6EHIOPweY/edit
