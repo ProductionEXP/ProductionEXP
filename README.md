@@ -6,8 +6,6 @@ I am a student at Sunrise Middle School, Paradise Valley.
   
 
 Email:            Bryce.Bartlo@gmail.com
-
-School Email:      bbartlo1@pvlearners.net
   
 Youtube:          https://www.youtube.com/channel/UCkPGM_usjdggdrSx5hVVjfw/featured
 
