@@ -15,7 +15,7 @@ Computer Stats
 ________________________________________________
   GPUs
  -    Nvidia GTX 1660 Super - Primary 
- -    Intel ARC A380 - Video prossesing 
+ -    Intel ARC A380 - Video processing 
 
   CPU
  -   Intel i5-10400
