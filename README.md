@@ -12,8 +12,8 @@ Youtube:          https://www.youtube.com/channel/UCkPGM_usjdggdrSx5hVVjfw/featu
 Computer Stats
 ________________________________________________
   GPUs
- -    Nvidia GTX 1660 Super - Primary 
- -    Intel ARC A380 - Video processing 
+ -    AMD Radeon™ RX 6750 XT Graphics
+ -    Nvidia GTX 1660 Super - Video processing 
 
   CPU
  -   Intel i5-10400
@@ -25,5 +25,6 @@ ________________________________________________
  -   256gb WD Blue Nvme M.2
  -   1tb Samsung 970 EVO Plus SSD NVMe M.2
  -   1tb WD Blue HDD
+ -   1tb WD Blue HDD (2.5")
 
 
