@@ -12,7 +12,7 @@ Youtube:          https://www.youtube.com/channel/UCkPGM_usjdggdrSx5hVVjfw/featu
 Computer Stats
 ________________________________________________
   GPUs
- -    AMD Radeon™ RX 6750 XT Graphics
+ -    AMD Radeon™ RX 6750 XT Graphics - Primary 
  -    Nvidia GTX 1660 Super - Video processing 
 
   CPU
