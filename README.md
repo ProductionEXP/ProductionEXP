@@ -1,11 +1,8 @@
-Hello I am @ProductionEXP, My name is Bryce B.
-I am a student at Sunrise Middle School, Paradise Valley.
-  I joined Github for my robotics team, but now I use it for a bit more.
-  You can find all of my Bitburner scripts as well as any other projects I work on in my repositories.
-
+Hello I am @ProductionEXP, My name is Bryce. I am a student at Herberger Young Scholars Academy.
   
-
+Work Email:       bbartlo@asu.edu       
 Email:            Bryce.Bartlo@gmail.com
+
   
 Youtube:          https://www.youtube.com/channel/UCkPGM_usjdggdrSx5hVVjfw/featured
 
@@ -27,4 +24,8 @@ ________________________________________________
  -   1tb WD Blue HDD
  -   1tb WD Blue HDD (2.5")
 
-
+  Sound
+ -   Onkyo TX-SR805
+ -   Cerwin-Vega Re-Series 30 Re
+ -   Klipsch RC-42 II
+ -   BOSTON ACOUSTICS VR 950 
