@@ -1,5 +1,5 @@
 Hello I am @ProductionEXP, My name is Bryce. I am a student at Herberger Young Scholars Academy.
-I am a mentor for the Sunrise Koolbotics #11794 FTC team, and I am the contracted Finace mannager for The Herberger Javelinas 10111 FTC team.
+I am a mentor for the Sunrise Koolbotics #11794 FTC team, and I am the contracted Finace mannager for The Herberger Javelinas #10111 FTC team.
   
 Work Email:       bbartlo@asu.edu       
 Email:            Bryce.Bartlo@gmail.com
