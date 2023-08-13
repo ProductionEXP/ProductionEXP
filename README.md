@@ -17,7 +17,7 @@ ________________________________________________
  -   Intel Core i5-10400
 
   RAM
- -   32gb DDR4 2666mhz
+ -   Corsair Vengeance LPX 32 GB - 2133mhz
  
   Storage
  -   256gb WD Blue Nvme M.2
