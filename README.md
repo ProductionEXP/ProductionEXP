@@ -26,7 +26,7 @@ ________________________________________________
 
   Sound
  -   Onkyo TX-SR805 (AVC)
- -   Cerwin-Vega Re-Series 30 Re (FL/FR)
+ -   Cerwin-Vega! Re-Series 30 Re (FL/FR)
  -   Klipsch RC-42 II (CNT)
  -   BOSTON ACOUSTICS VR 950 (SL/SR)
  -   Cerwin-Vega! VEGA Series 12" 450W 4Ω (SW)
