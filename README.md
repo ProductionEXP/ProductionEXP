@@ -1,4 +1,4 @@
-Hello I am @ProductionEXP, My name is Bryce. I am a student at Herberger Young Scholars Academy.
+Hello I am @ProductionEXP, My name is Bryce. I am a student at the Gary K. Herberger Young Scholars Academy.
 I am a mentor for the Sunrise Koolbotics #11794 FTC team.
   
 Work Email:       bbartlo@asu.edu       
