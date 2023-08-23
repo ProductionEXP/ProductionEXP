@@ -25,7 +25,7 @@ ________________________________________________
  -   1tb WD Blue HDD 2x
 
   Sound
- -   Onkyo TX-SR805 (AVC)
+ -   Onkyo TX-SR805 (AVR)
  -   Cerwin-Vega! Re-Series 30 Re (FL/FR)
  -   Klipsch RC-42 II (CNT)
  -   BOSTON ACOUSTICS VR 950 (SL/SR)
