@@ -9,6 +9,8 @@ Youtube:          https://www.youtube.com/channel/UCkPGM_usjdggdrSx5hVVjfw/featu
 
 Computer Stats
 ________________________________________________
+[PC Part Picker](https://pcpartpicker.com/user/ProductionExpert/saved/wGwvRB)
+
   GPUs
  -    AMD Radeon™ RX 6750 XT Graphics - Primary 
  -    Nvidia GTX 1660 Super - Video processing 
@@ -30,3 +32,4 @@ ________________________________________________
  -   Klipsch RC-42 II (CNT)
  -   BOSTON ACOUSTICS VR 950 (SL/SR)
  -   Cerwin-Vega! VEGA Series 12" 450W 4Ω (SW)
+ -   KENWOOD Stereo Power Amplifier KM-106 (AMP)
