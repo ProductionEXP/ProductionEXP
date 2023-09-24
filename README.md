@@ -33,3 +33,4 @@ ________________________________________________
  -   BOSTON ACOUSTICS VR 950 (SL/SR)
  -   Cerwin-Vega! VEGA Series 12" 450W 4Ω (SW)
  -   KENWOOD Stereo Power Amplifier KM-106 (AMP)
+ -   Cerwin-Vega! HB1 (HP)
