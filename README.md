@@ -1,5 +1,4 @@
 Hello I am @ProductionEXP, My name is Bryce. I am a student at the Gary K. Herberger Young Scholars Academy.
-I am a mentor for the Sunrise Koolbotics #11794 FTC team.
   
 Work Email:       bbartlo@asu.edu       
 Email:            Bryce.Bartlo@gmail.com
@@ -12,8 +11,8 @@ ________________________________________________
 [PC Part Picker](https://pcpartpicker.com/user/ProductionExpert/saved/wGwvRB)
 
   GPUs
- -    AMD Radeon™ RX 6750 XT Graphics - Primary 
- -    Nvidia GTX 1660 Super - Video processing 
+ -   AMD Radeon™ RX 6750 XT Graphics - Primary 
+ -   Nvidia RTX 3060 - Secondary 
 
   CPU
  -   Intel Core i5-10400
@@ -34,3 +33,4 @@ ________________________________________________
  -   Cerwin-Vega! VEGA Series 12" 450W 4Ω (SW)
  -   KENWOOD Stereo Power Amplifier KM-106 (AMP)
  -   Cerwin-Vega! HB1 (HP)
+ -   Audio-Technica AT-LP60X-BK (TT)
